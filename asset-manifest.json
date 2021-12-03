@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/laloupe-js-202109-p2-undefinedCocktails/static/css/main.b9d156c4.chunk.css",
+    "main.js": "/laloupe-js-202109-p2-undefinedCocktails/static/js/main.52bf8cc1.chunk.js",
+    "main.js.map": "/laloupe-js-202109-p2-undefinedCocktails/static/js/main.52bf8cc1.chunk.js.map",
+    "runtime-main.js": "/laloupe-js-202109-p2-undefinedCocktails/static/js/runtime-main.74af9ecb.js",
+    "runtime-main.js.map": "/laloupe-js-202109-p2-undefinedCocktails/static/js/runtime-main.74af9ecb.js.map",
+    "static/js/2.ef75cffb.chunk.js": "/laloupe-js-202109-p2-undefinedCocktails/static/js/2.ef75cffb.chunk.js",
+    "static/js/2.ef75cffb.chunk.js.map": "/laloupe-js-202109-p2-undefinedCocktails/static/js/2.ef75cffb.chunk.js.map",
+    "static/js/3.5c53e780.chunk.js": "/laloupe-js-202109-p2-undefinedCocktails/static/js/3.5c53e780.chunk.js",
+    "static/js/3.5c53e780.chunk.js.map": "/laloupe-js-202109-p2-undefinedCocktails/static/js/3.5c53e780.chunk.js.map",
+    "index.html": "/laloupe-js-202109-p2-undefinedCocktails/index.html",
+    "static/css/main.b9d156c4.chunk.css.map": "/laloupe-js-202109-p2-undefinedCocktails/static/css/main.b9d156c4.chunk.css.map",
+    "static/js/2.ef75cffb.chunk.js.LICENSE.txt": "/laloupe-js-202109-p2-undefinedCocktails/static/js/2.ef75cffb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/laloupe-js-202109-p2-undefinedCocktails/static/media/Kalam-Bold.d81b8c41.ttf",
+    "static/media/Home.css": "/laloupe-js-202109-p2-undefinedCocktails/static/media/cocktail-desktop.85905034.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74af9ecb.js",
+    "static/js/2.ef75cffb.chunk.js",
+    "static/css/main.b9d156c4.chunk.css",
+    "static/js/main.52bf8cc1.chunk.js"
+  ]
+}
