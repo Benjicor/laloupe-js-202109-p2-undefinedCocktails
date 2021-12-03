@@ -5,7 +5,7 @@
   height: 60px;
   background: linear-gradient(to right, #fff200, #f37029, #e93e3a);
   color: white;
-  position: sticky;
+  position: relative;
   top: 0;
   z-index: 99;
   align-items: center;
@@ -15,7 +15,6 @@
   width: 100%;
   font-family: 'Kalam', cursive;
   font-size: 25pt;
-  padding-right: 60px;
 }
 
 h1 {
@@ -24,6 +23,9 @@ h1 {
 }
 
 .burger-menu {
+  position: fixed;
+  top: 0;
+  left: 1rem;
   justify-content: flex-start;
   border-color: transparent;
   background-color: transparent;

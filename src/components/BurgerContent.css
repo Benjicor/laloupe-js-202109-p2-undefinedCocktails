@@ -15,8 +15,11 @@
 .nav li {
   margin-bottom: 25px;
   color: white;
-  text-align: left;
+  text-align: justify;
   font-size: 1.2rem;
+  width: 100%;
+  font-family: 'Kalam', cursive;
+  padding-right: 15px;
 }
 
 .link {
