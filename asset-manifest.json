@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/laloupe-js-202109-p2-undefinedCocktails/static/css/main.db009502.chunk.css",
-    "main.js": "/laloupe-js-202109-p2-undefinedCocktails/static/js/main.4d565921.chunk.js",
-    "main.js.map": "/laloupe-js-202109-p2-undefinedCocktails/static/js/main.4d565921.chunk.js.map",
+    "main.js": "/laloupe-js-202109-p2-undefinedCocktails/static/js/main.0aafa4f3.chunk.js",
+    "main.js.map": "/laloupe-js-202109-p2-undefinedCocktails/static/js/main.0aafa4f3.chunk.js.map",
     "runtime-main.js": "/laloupe-js-202109-p2-undefinedCocktails/static/js/runtime-main.74af9ecb.js",
     "runtime-main.js.map": "/laloupe-js-202109-p2-undefinedCocktails/static/js/runtime-main.74af9ecb.js.map",
     "static/js/2.ef75cffb.chunk.js": "/laloupe-js-202109-p2-undefinedCocktails/static/js/2.ef75cffb.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.74af9ecb.js",
     "static/js/2.ef75cffb.chunk.js",
     "static/css/main.db009502.chunk.css",
-    "static/js/main.4d565921.chunk.js"
+    "static/js/main.0aafa4f3.chunk.js"
   ]
 }
